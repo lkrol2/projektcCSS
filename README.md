@@ -1,4 +1,3 @@
-# projektcCSS
 <!--#
 1. Przeanalizować proces nakładania w narzędziu deweloperskim przeglądarki.
 
@@ -24,20 +23,14 @@
     <header id="naglowek-strony">
       <div class="logo-witryny logo-witryny-2 right"></div>
 
-        <div class="logo-witryny-3 left"></div>
-
-        <div class="wersja-produktu left"> <br>wersja 1.0</div>
-        <div class="logo-witryny-4 centre"></div>
+        <div class="logo-witryny-3 left">kontakt</div>
 
 
-        <span>Nasz text blaaaa</span>
-        <div class="wersja-produktu left"> <br>wersja 1.0</div>
+        <div class="wersja-produktu left"> wersja 1.0</div>
 
-       <span>Nasz text do tekstów<br>lalaalala</span>
+       <span><br>Nasz text do tekstów<br>lalaalala</span>
         <div class="clear"></div>
 
-        <span>Nasz text blaaaa</span>
-        <div class="clear"></div>
 
     </header>
 
@@ -46,3 +39,4 @@
 
     </body>
 </html>
+
